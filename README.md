@@ -1,8 +1,8 @@
 # Aurora Drift
 
 [![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
-[![rank](https://make.fun/badge/best-game-01/mellow-comet-91/aurora-drift/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
-[![reward](https://make.fun/badge/best-game-01/mellow-comet-91/aurora-drift/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/1372755394-ai/aurora-drift/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/1372755394-ai/aurora-drift/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
 
 Fly the last light-ship through the neon nebula. Collect star shards, dodge the swarm, and break the Void Leviathan across 10 waves — two bosses, one way home.
 
